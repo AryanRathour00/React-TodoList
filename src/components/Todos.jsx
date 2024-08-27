@@ -73,7 +73,7 @@ const Todos = ({
                 <BsCheck2 />
               </button>
             </>
-          ) : (
+          ) : ( 
             <>
               <input
                 type="text"
@@ -105,4 +105,4 @@ const Todos = ({
   );
 };
 
-export default Todos;
+export default Todos; 
